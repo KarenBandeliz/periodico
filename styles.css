@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(30, 32, 32, 0.411);
+}
+.jumbotron{
+    background-image: url(https://images.adsttc.com/media/images/5bfc/1cf0/08a5/e566/ee00/099a/medium_jpg/Guangzhou_shutterstock_1231509661.jpg?1543249119);
+}
+
+.display-4{
+    background-color: rgba(240, 248, 255, 0.37);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.lead{
+    text-align: center;
+    font-size: 35px;
+    background-color: rgba(8, 97, 104, 0.342);
+    color: aliceblue;
+}
+.navbar{
+background-color: rgba(174, 236, 245, 0.459);
+text-align: center;
+font-size: 20px;
+}
+.container{
+    background-color: rgba(5, 25, 43, 0.678);
+    color: aliceblue;
+}
+.card-body{
+    color: black;
+}
